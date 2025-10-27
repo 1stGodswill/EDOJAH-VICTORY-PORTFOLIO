@@ -31,9 +31,9 @@ nav a {
 .hero {
   text-align: center;
   padding: 6rem 1rem;
-  font-size: 1.5rem;
+  font-size: 1rem;
   line-height: 25px;
-  height: 100vh;
+  height: 80vh;
 }
 
 .profile-pic {
@@ -149,4 +149,5 @@ footer {
     gap: 10px;
   }
 }
+
 
